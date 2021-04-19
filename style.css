@@ -73,8 +73,22 @@ input {
 input:hover {
   border: 1px solid gray;
 }
+
 #first-name {
   margin-top: 8%;
+}
+
+.check {
+    display: inline-block;
+}
+.password{
+    margin-left: 6%;
+    margin-right: 1%;
+    
+}
+.password-label {
+    color: black;
+    width: 5%;   
 }
 
 button {
