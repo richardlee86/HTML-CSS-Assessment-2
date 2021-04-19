@@ -93,6 +93,18 @@ button:hover {
   cursor: pointer;
 }
 
+label {
+    margin-top: 5%;
+    color: hsla(67, 0%, 81%, 1);
+    margin-top: 1%;
+    font-size: .7rem;
+    text-align: center;
+  }
+
+  .terms-span {
+    color: hsl(0, 100%, 74%);
+  }
+
 @media only screen and (max-width: 500px) {
   html {
     height: 100%;
